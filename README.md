@@ -1,0 +1,1 @@
+This project consists of building a basic HTML website following The Odin Project
